@@ -1,7 +1,6 @@
 # 💫About Me :
 - 🔭 I’m currently learning Cyber Security
 - 🌱 I'm interested in Reverse Engineering, Pwnable,...
-- 📫 How to reach me: Send me a message via social networking sites
 - ⚡ Fact: ...
 
 # 💻Tech Stack
@@ -10,9 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=t13ee&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=t13ee&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=t13ee&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=t13ee&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
