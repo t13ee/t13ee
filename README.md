@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=t13ee&color=CD0DC8&style=flat&label=Profile+Views" align="left" alt="t13ee">
+
 # HI THERE, I'M T-13ee
 
 # 💫About Me :
